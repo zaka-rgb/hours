@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518826449 source:e:\prog\hours\hours\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tr.h"
+
+1518826411 e:\prog\hours\hours\tr.h
+
+1518826367 source:e:\prog\hours\hours\tr.c
+
